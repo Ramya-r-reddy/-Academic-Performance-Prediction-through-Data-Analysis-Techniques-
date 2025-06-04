@@ -1,0 +1,2 @@
+# -Academic-Performance-Prediction-through-Data-Analysis-Techniques-
+Sure! Here's a version of the description within **350 characters**:  **"This project analyzes student academic data to identify key factors affecting performance and predicts future marks using data analysis and machine learning techniques. It provides insights for early intervention and helps improve academic outcomes through predictive modeling.
